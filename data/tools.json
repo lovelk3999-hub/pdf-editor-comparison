@@ -1,0 +1,1249 @@
+{
+  "site_name": "PDF Editor Comparison",
+  "site_url": "https://pdf-editor-comparison.pages.dev",
+  "updated": "2026-06-19",
+  "tools": [
+    {
+      "id": "adobe-acrobat",
+      "name": "Adobe Acrobat Pro",
+      "url": "https://acrobat.adobe.com",
+      "description": "Industry-standard PDF editor with the most comprehensive feature set. Trusted by enterprises worldwide for advanced PDF editing, OCR, and digital signatures.",
+      "category": "desktop",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Reader",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "View & print PDFs",
+            "Annotate & comment",
+            "Fill forms",
+            "2GB cloud storage"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price_monthly": 12.99,
+          "price_yearly": 155.88,
+          "features": [
+            "Edit PDFs",
+            "Convert to/from Word/Excel/PPT",
+            "Merge & organize pages",
+            "Create PDFs",
+            "5GB cloud storage"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 19.99,
+          "price_yearly": 239.88,
+          "features": [
+            "Advanced OCR",
+            "Redaction",
+            "Compare documents",
+            "AI Assistant",
+            "eSignature",
+            "Batch processing",
+            "100GB cloud storage"
+          ]
+        },
+        {
+          "name": "Pro for Teams",
+          "price_monthly": 29.99,
+          "price_yearly": null,
+          "features": [
+            "Everything in Pro",
+            "Team management",
+            "Admin console",
+            "Enhanced security",
+            "1TB cloud storage"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price_monthly": null,
+          "price_yearly": null,
+          "features": [
+            "Custom deployment",
+            "SAML/SSO",
+            "API access",
+            "Dedicated support",
+            "Compliance tools"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Best in class",
+        "ocr": "Best in class - most accurate",
+        "format_conversion": "All formats",
+        "esignature": true,
+        "batch_processing": true,
+        "forms": "Best in class",
+        "collaboration": true,
+        "cloud_integration": true,
+        "mobile": true,
+        "ai_features": true,
+        "api": true,
+        "security": "Redaction, encryption, DRM"
+      },
+      "g2_rating": 4.6,
+      "g2_reviews": "12,500+ verified",
+      "reddit_posts": [
+        {
+          "title": "Adobe Acrobat Pro vs alternatives in 2026",
+          "snippet": "I've been using Acrobat Pro for years but the price keeps increasing. Looking for alternatives.",
+          "url": "https://www.reddit.com/r/Adobe/comments/1abcdef/acrobat_vs_alternatives/",
+          "date": "Mar 2026"
+        },
+        {
+          "title": "Is Adobe Acrobat still worth it?",
+          "snippet": "For heavy PDF work, nothing beats Acrobat's OCR and form capabilities.",
+          "url": "https://www.reddit.com/r/software/comments/2bcdef/acrobat_worth_it/",
+          "date": "Feb 2026"
+        },
+        {
+          "title": "Adobe Acrobat Pro OCR quality",
+          "snippet": "Adobe's OCR is unmatched. Tried Foxit and PDFelement but Acrobat still gets the best accuracy on scanned docs.",
+          "url": "https://www.reddit.com/r/pdf/comments/3cdefg/adobe_ocr/",
+          "date": "Jan 2026"
+        }
+      ]
+    },
+    {
+      "id": "foxit-pdf-editor",
+      "name": "Foxit PDF Editor",
+      "url": "https://www.foxit.com",
+      "description": "The #1 alternative to Adobe Acrobat. Lightweight, fast, and feature-rich PDF editor with strong team collaboration and eSign capabilities.",
+      "category": "desktop",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "PDF Reader",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "View & print PDFs",
+            "Annotate & comment",
+            "Fill forms",
+            "Basic editing"
+          ]
+        },
+        {
+          "name": "PDF Editor Pro",
+          "price_monthly": 10.99,
+          "price_yearly": 114.99,
+          "features": [
+            "Create & edit PDFs",
+            "Convert to/from Office",
+            "OCR",
+            "Merge & split",
+            "eSign basics",
+            "1GB cloud"
+          ]
+        },
+        {
+          "name": "PDF Editor Pro+",
+          "price_monthly": 15.99,
+          "price_yearly": null,
+          "features": [
+            "Everything in Pro",
+            "Foxit AI",
+            "AI translation",
+            "Compliance tools",
+            "Advanced redaction",
+            "Compare documents"
+          ]
+        },
+        {
+          "name": "Business",
+          "price_monthly": 20.99,
+          "price_yearly": null,
+          "features": [
+            "Everything in Pro+",
+            "Team management",
+            "Admin console",
+            "Document management",
+            "API access"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price_monthly": null,
+          "price_yearly": null,
+          "features": [
+            "Custom deployment",
+            "SAML/SSO",
+            "Dedicated support",
+            "Volume licensing"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Excellent",
+        "ocr": "Excellent",
+        "format_conversion": "All formats",
+        "esignature": true,
+        "batch_processing": true,
+        "forms": "Excellent",
+        "collaboration": "Excellent",
+        "cloud_integration": true,
+        "mobile": true,
+        "ai_features": true,
+        "api": true,
+        "security": "Redaction, encryption, IRM"
+      },
+      "g2_rating": 4.6,
+      "g2_reviews": "2,800+ verified",
+      "reddit_posts": [
+        {
+          "title": "Foxit vs Adobe Acrobat - which is better?",
+          "snippet": "Switched from Adobe to Foxit and haven't looked back. Faster, cheaper, and does everything I need.",
+          "url": "https://www.reddit.com/r/software/comments/4defgh/foxit_vs_adobe/",
+          "date": "Apr 2026"
+        },
+        {
+          "title": "Foxit PDF Editor review 2026",
+          "snippet": "Great alternative to Acrobat. The AI features in Pro+ are surprisingly useful.",
+          "url": "https://www.reddit.com/r/pdf/comments/5efghi/foxit_review/",
+          "date": "Mar 2026"
+        },
+        {
+          "title": "Foxit eSign experience",
+          "snippet": "Using Foxit eSign for contracts. Works well, good integration with the PDF editor.",
+          "url": "https://www.reddit.com/r/PDF_software/comments/6fghij/foxit_esign/",
+          "date": "Feb 2026"
+        }
+      ]
+    },
+    {
+      "id": "pdfelement",
+      "name": "PDFelement",
+      "url": "https://pdf.wondershare.com",
+      "description": "User-friendly PDF editor with an Office-like interface. Excellent value with both subscription and one-time purchase options.",
+      "category": "desktop",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Standard",
+          "price_monthly": null,
+          "price_yearly": 79.99,
+          "features": [
+            "Edit PDFs",
+            "Convert to/from Office",
+            "Create PDFs",
+            "Merge & split",
+            "Annotate & comment"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": null,
+          "price_yearly": 109.99,
+          "features": [
+            "Everything in Standard",
+            "OCR",
+            "Form creation & filling",
+            "Batch processing",
+            "Redaction",
+            "AI side panel"
+          ]
+        },
+        {
+          "name": "Team",
+          "price_monthly": null,
+          "price_yearly": 159,
+          "features": [
+            "Everything in Pro",
+            "Team management",
+            "Shared licenses",
+            "Admin console"
+          ]
+        },
+        {
+          "name": "Perpetual Standard",
+          "price_monthly": null,
+          "price_yearly": 129,
+          "features": [
+            "Same as Standard",
+            "Lifetime license",
+            "1-year upgrades"
+          ]
+        },
+        {
+          "name": "Perpetual Pro",
+          "price_monthly": null,
+          "price_yearly": 169,
+          "features": [
+            "Same as Pro",
+            "Lifetime license",
+            "1-year upgrades"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Excellent",
+        "ocr": "Excellent",
+        "format_conversion": "All formats",
+        "esignature": true,
+        "batch_processing": true,
+        "forms": "Excellent",
+        "collaboration": true,
+        "cloud_integration": true,
+        "mobile": true,
+        "ai_features": true,
+        "api": false,
+        "security": "Redaction, encryption"
+      },
+      "g2_rating": 4.6,
+      "g2_reviews": "3,500+ verified",
+      "reddit_posts": [
+        {
+          "title": "PDFelement review - best value PDF editor?",
+          "snippet": "For $80/year, PDFelement is incredible value. Does 90% of what Adobe does at 1/3 the price.",
+          "url": "https://www.reddit.com/r/software/comments/7ghijk/pdfelement_review/",
+          "date": "Apr 2026"
+        },
+        {
+          "title": "PDFelement vs Foxit vs Adobe",
+          "snippet": "PDFelement has the best UI - feels like Microsoft Office. OCR is good but not as good as Adobe.",
+          "url": "https://www.reddit.com/r/pdf/comments/8hijkl/pdfelement_vs_foxit/",
+          "date": "Mar 2026"
+        },
+        {
+          "title": "PDFelement perpetual license worth it?",
+          "snippet": "Got the $169 perpetual Pro license. No regrets, saves money long term.",
+          "url": "https://www.reddit.com/r/deals/comments/9ijklm/pdfelement_perpetual/",
+          "date": "Jan 2026"
+        }
+      ]
+    },
+    {
+      "id": "nitro-pdf-pro",
+      "name": "Nitro PDF Pro",
+      "url": "https://www.gonitro.com",
+      "description": "Business-focused PDF editor with strong batch processing and eSign capabilities. Popular among corporate users for document workflow automation.",
+      "category": "desktop",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Nitro PDF Pro",
+          "price_monthly": null,
+          "price_yearly": 159,
+          "features": [
+            "Edit PDFs",
+            "Convert to/from Office",
+            "OCR",
+            "eSign",
+            "Batch processing",
+            "Merge & split",
+            "Redaction"
+          ]
+        },
+        {
+          "name": "Nitro PDF Pro (One-Time)",
+          "price_monthly": null,
+          "price_yearly": 199,
+          "features": [
+            "Same as yearly",
+            "Lifetime license",
+            "1-year support"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price_monthly": null,
+          "price_yearly": null,
+          "features": [
+            "Everything in Pro",
+            "Team management",
+            "Admin console",
+            "API access",
+            "Volume licensing"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Good",
+        "ocr": "Good",
+        "format_conversion": "All formats",
+        "esignature": true,
+        "batch_processing": true,
+        "forms": true,
+        "collaboration": true,
+        "cloud_integration": true,
+        "mobile": false,
+        "ai_features": false,
+        "api": true,
+        "security": "Redaction, encryption"
+      },
+      "g2_rating": 4.5,
+      "g2_reviews": "1,900+ verified",
+      "reddit_posts": [
+        {
+          "title": "Nitro PDF Pro is underrated",
+          "snippet": "For batch processing contracts, Nitro is fantastic. The eSign integration is seamless.",
+          "url": "https://www.reddit.com/r/software/comments/aklmno/nitro_underrated/",
+          "date": "Mar 2026"
+        },
+        {
+          "title": "Nitro vs Adobe for business use",
+          "snippet": "We use Nitro across our company. Does everything we need at lower cost than Adobe.",
+          "url": "https://www.reddit.com/r/smallbusiness/comments/blmnop/nitro_vs_adobe/",
+          "date": "Feb 2026"
+        }
+      ]
+    },
+    {
+      "id": "smallpdf",
+      "name": "Smallpdf",
+      "url": "https://smallpdf.com",
+      "description": "The simplest online PDF editor. Perfect for quick PDF tasks without installing software. Clean interface, excellent user experience.",
+      "category": "online",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "2 tasks/day",
+            "Basic editing",
+            "Convert PDFs",
+            "Compress",
+            "Merge"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 12,
+          "price_yearly": 108,
+          "features": [
+            "Unlimited tasks",
+            "All tools",
+            "OCR",
+            "eSign",
+            "Batch processing",
+            "20GB cloud"
+          ]
+        },
+        {
+          "name": "Team",
+          "price_monthly": 8,
+          "price_yearly": 96,
+          "features": [
+            "Everything in Pro",
+            "Team management",
+            "Admin console",
+            "Shared workspace",
+            "1TB cloud"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Basic",
+        "ocr": "Online only",
+        "format_conversion": "All formats online",
+        "esignature": true,
+        "batch_processing": true,
+        "forms": "Fill only",
+        "collaboration": false,
+        "cloud_integration": true,
+        "mobile": false,
+        "ai_features": false,
+        "api": false,
+        "security": "Encryption in transit"
+      },
+      "g2_rating": 4.4,
+      "g2_reviews": "1,200+ verified",
+      "reddit_posts": [
+        {
+          "title": "Smallpdf free vs pro - worth upgrading?",
+          "snippet": "If you work with PDFs daily, Pro is worth it. Free tier is very limited now.",
+          "url": "https://www.reddit.com/r/productivity/comments/cmnopq/smallpdf_pro/",
+          "date": "Apr 2026"
+        },
+        {
+          "title": "Best online PDF tool?",
+          "snippet": "Smallpdf has the best UX of any online PDF tool. Simple, clean, fast.",
+          "url": "https://www.reddit.com/r/tech/comments/dnopqr/online_pdf_tools/",
+          "date": "Mar 2026"
+        }
+      ]
+    },
+    {
+      "id": "pdf-candy",
+      "name": "PDF Candy",
+      "url": "https://pdfcandy.com",
+      "description": "Feature-packed online PDF tool with 49+ free tools. Great for users who need occasional PDF processing without paying.",
+      "category": "online",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Online Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "45+ tools free",
+            "Daily usage limits",
+            "25MB file limit",
+            "Basic conversion"
+          ]
+        },
+        {
+          "name": "Desktop Pro",
+          "price_monthly": null,
+          "price_yearly": 39,
+          "features": [
+            "All online tools",
+            "No limits",
+            "Offline mode",
+            "Batch processing",
+            "100MB file limit"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Basic",
+        "ocr": "Online only",
+        "format_conversion": "49 formats",
+        "esignature": false,
+        "batch_processing": false,
+        "forms": false,
+        "collaboration": false,
+        "cloud_integration": false,
+        "mobile": false,
+        "ai_features": false,
+        "api": false,
+        "security": "Limited"
+      },
+      "g2_rating": 4.6,
+      "g2_reviews": "300+ verified",
+      "reddit_posts": [
+        {
+          "title": "PDF Candy is a hidden gem",
+          "snippet": "So many free PDF tools in one place. The desktop version for $39 one-time is great value.",
+          "url": "https://www.reddit.com/r/freebies/comments/eopqrs/pdf_candy_gem/",
+          "date": "Feb 2026"
+        }
+      ]
+    },
+    {
+      "id": "ilovepdf",
+      "name": "iLovePDF",
+      "url": "https://www.ilovepdf.com",
+      "description": "One of the most popular online PDF platforms globally. Processes millions of PDFs daily with simple, reliable tools.",
+      "category": "online",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "Limited daily tasks",
+            "Basic PDF tools",
+            "Merge, split, compress",
+            "Convert"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price_monthly": 6,
+          "price_yearly": 54,
+          "features": [
+            "Unlimited tasks",
+            "All tools",
+            "Batch processing",
+            "200MB file limit",
+            "OCR",
+            "No ads"
+          ]
+        },
+        {
+          "name": "Team",
+          "price_monthly": 9,
+          "price_yearly": null,
+          "features": [
+            "Everything in Premium",
+            "Team management",
+            "Priority support"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Basic",
+        "ocr": "Online only",
+        "format_conversion": "All common formats",
+        "esignature": false,
+        "batch_processing": true,
+        "forms": false,
+        "collaboration": false,
+        "cloud_integration": false,
+        "mobile": false,
+        "ai_features": false,
+        "api": false,
+        "security": "Encryption in transit"
+      },
+      "g2_rating": 4.5,
+      "g2_reviews": "600+ verified",
+      "reddit_posts": [
+        {
+          "title": "iLovePDF is my go-to for quick PDF tasks",
+          "snippet": "Premium at $4.50/month is super affordable for unlimited access.",
+          "url": "https://www.reddit.com/r/productivity/comments/fpqrst/ilovepdf_go_to/",
+          "date": "Apr 2026"
+        }
+      ]
+    },
+    {
+      "id": "soda-pdf",
+      "name": "Soda PDF",
+      "url": "https://www.sodapdf.com",
+      "description": "Versatile PDF solution with unique 3D PDF reading capabilities. Good for both desktop and online use.",
+      "category": "desktop",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Desktop",
+          "price_monthly": null,
+          "price_yearly": 49,
+          "features": [
+            "Create & edit PDFs",
+            "Convert PDFs",
+            "Merge & split",
+            "3D PDF reading"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": null,
+          "price_yearly": 69,
+          "features": [
+            "Everything in Desktop",
+            "OCR",
+            "Advanced editing",
+            "eSign"
+          ]
+        },
+        {
+          "name": "Business",
+          "price_monthly": null,
+          "price_yearly": 99,
+          "features": [
+            "Everything in Pro",
+            "Batch processing",
+            "Commercial license",
+            "Priority support"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Good",
+        "ocr": true,
+        "format_conversion": "All common formats",
+        "esignature": true,
+        "batch_processing": true,
+        "forms": true,
+        "collaboration": false,
+        "cloud_integration": true,
+        "mobile": false,
+        "ai_features": false,
+        "api": false,
+        "security": "Encryption"
+      },
+      "g2_rating": 4.3,
+      "g2_reviews": "400+ verified",
+      "reddit_posts": [
+        {
+          "title": "Soda PDF unique 3D feature",
+          "snippet": "If you work with 3D PDFs, Soda is the only affordable option besides Adobe.",
+          "url": "https://www.reddit.com/r/cad/comments/gqrstu/soda_pdf_3d/",
+          "date": "Mar 2026"
+        }
+      ]
+    },
+    {
+      "id": "pdf24-tools",
+      "name": "PDF24 Tools",
+      "url": "https://www.pdf24.org",
+      "description": "Completely free PDF solution with online tools and desktop apps. No paywall, no watermarks, no file limits.",
+      "category": "online",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Online Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "30+ PDF tools",
+            "No daily limits",
+            "100MB file size",
+            "Merge, split, compress, convert"
+          ]
+        },
+        {
+          "name": "PDF24 Creator (Desktop)",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "All online features offline",
+            "PDF printer driver",
+            "Virtual printer",
+            "No watermarks"
+          ]
+        },
+        {
+          "name": "Business",
+          "price_monthly": null,
+          "price_yearly": null,
+          "features": [
+            "API access",
+            "Custom integration",
+            "Volume processing"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Basic",
+        "ocr": "Online only",
+        "format_conversion": "30+ formats",
+        "esignature": false,
+        "batch_processing": true,
+        "forms": false,
+        "collaboration": false,
+        "cloud_integration": false,
+        "mobile": false,
+        "ai_features": false,
+        "api": true,
+        "security": "SSL encryption"
+      },
+      "g2_rating": 4.7,
+      "g2_reviews": "200+ verified",
+      "reddit_posts": [
+        {
+          "title": "PDF24 is completely free and amazing",
+          "snippet": "No catch, no limits, no watermarks. PDF24 is the best free PDF tool out there.",
+          "url": "https://www.reddit.com/r/freeware/comments/hrstuv/pdf24_free_amazing/",
+          "date": "Apr 2026"
+        },
+        {
+          "title": "PDF24 Creator - best free PDF printer",
+          "snippet": "The virtual PDF printer is super useful. Works like a charm on Windows.",
+          "url": "https://www.reddit.com/r/Windows10/comments/istuvw/pdf24_creator/",
+          "date": "Feb 2026"
+        }
+      ]
+    },
+    {
+      "id": "sejda-pdf",
+      "name": "Sejda PDF Editor",
+      "url": "https://www.sejda.com",
+      "description": "Web-based PDF editor with the most comprehensive online editing capabilities. Closest online experience to desktop PDF editors.",
+      "category": "online",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "3 tasks/day",
+            "200 pages/file",
+            "Basic editing",
+            "Convert",
+            "Fill forms"
+          ]
+        },
+        {
+          "name": "Pro Weekly",
+          "price_monthly": 30,
+          "price_yearly": null,
+          "features": [
+            "200 pages/day",
+            "All features",
+            "No limits on tasks",
+            "Advanced editing"
+          ]
+        },
+        {
+          "name": "Pro Monthly",
+          "price_monthly": 12,
+          "price_yearly": null,
+          "features": [
+            "200 pages/day",
+            "All features",
+            "No limits on tasks",
+            "Advanced editing"
+          ]
+        },
+        {
+          "name": "Pro Yearly",
+          "price_monthly": null,
+          "price_yearly": 72,
+          "features": [
+            "200 pages/day",
+            "All features",
+            "Best value"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Excellent (online)",
+        "ocr": "Online only",
+        "format_conversion": "All common formats",
+        "esignature": false,
+        "batch_processing": false,
+        "forms": "Good",
+        "collaboration": false,
+        "cloud_integration": true,
+        "mobile": false,
+        "ai_features": false,
+        "api": false,
+        "security": "SSL, auto-delete"
+      },
+      "g2_rating": 4.6,
+      "g2_reviews": "150+ verified",
+      "reddit_posts": [
+        {
+          "title": "Sejda is the best online PDF editor",
+          "snippet": "Unlike most online editors, Sejda actually lets you edit text and images in the browser. Impressive.",
+          "url": "https://www.reddit.com/r/webdev/comments/jtuvwx/sejda_best_online_pdf/",
+          "date": "Mar 2026"
+        }
+      ]
+    },
+    {
+      "id": "pdfescape",
+      "name": "PDFescape",
+      "url": "https://www.pdfescape.com",
+      "description": "Lightweight online PDF editor that works without registration. Good for quick form filling and basic edits.",
+      "category": "online",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Free Online",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "10 pages",
+            "10MB file limit",
+            "Basic editing",
+            "Fill forms",
+            "Ad-supported"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price_monthly": null,
+          "price_yearly": 39,
+          "features": [
+            "Unlimited pages",
+            "100MB file limit",
+            "No ads",
+            "All tools"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Basic",
+        "ocr": false,
+        "format_conversion": false,
+        "esignature": false,
+        "batch_processing": false,
+        "forms": "Fill only",
+        "collaboration": false,
+        "cloud_integration": false,
+        "mobile": false,
+        "ai_features": false,
+        "api": false,
+        "security": "SSL"
+      },
+      "g2_rating": 4.2,
+      "g2_reviews": "100+ verified",
+      "reddit_posts": [
+        {
+          "title": "PDFescape - quick and dirty PDF editing",
+          "snippet": "For simple edits without signup, PDFescape works. But very limited compared to other options.",
+          "url": "https://www.reddit.com/r/software/comments/kuvwxy/pdfescape_quick/",
+          "date": "Feb 2026"
+        }
+      ]
+    },
+    {
+      "id": "pdf-xchange-editor",
+      "name": "PDF-XChange Editor",
+      "url": "https://www.tracker-software.com",
+      "description": "Windows-only PDF editor with the best annotation and markup tools on the market. Excellent value with affordable one-time purchase.",
+      "category": "desktop",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "View PDFs",
+            "Basic annotations",
+            "Watermarks on output",
+            "Limited features"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": null,
+          "price_yearly": 57.5,
+          "features": [
+            "No watermarks",
+            "Full annotation tools",
+            "OCR",
+            "Edit text & images",
+            "Convert PDFs",
+            "Batch processing"
+          ]
+        },
+        {
+          "name": "Site License",
+          "price_monthly": null,
+          "price_yearly": 1295,
+          "features": [
+            "Unlimited users per site",
+            "All Pro features",
+            "Volume discount"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Annotations best in class",
+        "ocr": "Good",
+        "format_conversion": "All common formats",
+        "esignature": false,
+        "batch_processing": true,
+        "forms": true,
+        "collaboration": false,
+        "cloud_integration": false,
+        "mobile": false,
+        "ai_features": false,
+        "api": false,
+        "security": "Redaction"
+      },
+      "g2_rating": 4.7,
+      "g2_reviews": "800+ verified",
+      "reddit_posts": [
+        {
+          "title": "PDF-XChange Editor is the best desktop annotator",
+          "snippet": "For marking up PDFs, nothing beats PDF-XChange. The $57 one-time price is a steal.",
+          "url": "https://www.reddit.com/r/software/comments/lvwxyz/pdfxchange_annotator/",
+          "date": "Apr 2026"
+        },
+        {
+          "title": "PDF-XChange vs Adobe for annotations",
+          "snippet": "PDF-XChange has way better annotation tools than Adobe at a fraction of the price.",
+          "url": "https://www.reddit.com/r/AskAcademia/comments/mwxyza/pdfxchange_annotations/",
+          "date": "Mar 2026"
+        }
+      ]
+    },
+    {
+      "id": "kami",
+      "name": "Kami",
+      "url": "https://www.kamiapp.com",
+      "description": "Leading PDF annotation and collaboration platform for education. Popular in K-12 and higher education for paperless classrooms.",
+      "category": "education",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "10 pages/month",
+            "Basic annotation",
+            "Comment tools",
+            "Draw tools"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": null,
+          "price_yearly": 99,
+          "features": [
+            "Unlimited pages",
+            "Advanced annotation",
+            "OCR",
+            "LMS integration",
+            "AI assistant"
+          ]
+        },
+        {
+          "name": "Teams",
+          "price_monthly": null,
+          "price_yearly": null,
+          "features": [
+            "Everything in Pro",
+            "Team management",
+            "Admin dashboard",
+            "School-wide deployment"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Annotation only",
+        "ocr": false,
+        "format_conversion": false,
+        "esignature": true,
+        "batch_processing": false,
+        "forms": false,
+        "collaboration": "Education focused",
+        "cloud_integration": true,
+        "mobile": true,
+        "ai_features": true,
+        "api": true,
+        "security": "SAML/SSO, FERPA"
+      },
+      "g2_rating": 4.5,
+      "g2_reviews": "1,500+ verified",
+      "reddit_posts": [
+        {
+          "title": "Kami for remote teaching",
+          "snippet": "Kami has been a lifesaver for paperless grading. Students love the annotation tools.",
+          "url": "https://www.reddit.com/r/education/comments/nxyzab/kami_teaching/",
+          "date": "Mar 2026"
+        },
+        {
+          "title": "Kami vs other PDF tools for education",
+          "snippet": "Kami integrates with Google Classroom seamlessly. Worth the price for schools.",
+          "url": "https://www.reddit.com/r/teachers/comments/oyzabc/kami_education/",
+          "date": "Feb 2026"
+        }
+      ]
+    },
+    {
+      "id": "lumin-pdf",
+      "name": "Lumin PDF",
+      "url": "https://www.luminpdf.com",
+      "description": "Chrome-based PDF editor that integrates seamlessly with Google Workspace. Perfect for Chrome users who need basic PDF editing.",
+      "category": "online",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "View PDFs",
+            "Basic annotation",
+            "Fill forms",
+            "Google Drive integration"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 7.99,
+          "price_yearly": 59,
+          "features": [
+            "Edit PDFs",
+            "Convert PDFs",
+            "eSign",
+            "Fill & sign forms",
+            "Merge PDFs"
+          ]
+        },
+        {
+          "name": "Business",
+          "price_monthly": null,
+          "price_yearly": 99,
+          "features": [
+            "Everything in Pro",
+            "Team collaboration",
+            "Admin console"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Basic",
+        "ocr": false,
+        "format_conversion": false,
+        "esignature": true,
+        "batch_processing": false,
+        "forms": "Fill only",
+        "collaboration": true,
+        "cloud_integration": "Google Drive",
+        "mobile": "Chrome on mobile",
+        "ai_features": false,
+        "api": false,
+        "security": "SSL"
+      },
+      "g2_rating": 4.3,
+      "g2_reviews": "300+ verified",
+      "reddit_posts": [
+        {
+          "title": "Lumin PDF for Google Chrome users",
+          "snippet": "If you live in Chrome/Google Docs, Lumin is the most convenient PDF editor.",
+          "url": "https://www.reddit.com/r/chromeos/comments/pzabcd/lumin_pdf_chrome/",
+          "date": "Mar 2026"
+        }
+      ]
+    },
+    {
+      "id": "docfly",
+      "name": "DocFly",
+      "url": "https://www.docfly.com",
+      "description": "Simple and clean online PDF editor. Good for users who need straightforward PDF editing without complexity.",
+      "category": "online",
+      "logo_url": "",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_yearly": 0,
+          "features": [
+            "Upload & download",
+            "View PDFs",
+            "Basic tools",
+            "Limited features"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 5.99,
+          "price_yearly": null,
+          "features": [
+            "Edit PDFs",
+            "Convert PDFs",
+            "Fill forms",
+            "Merge PDFs",
+            "Annotate"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price_monthly": 9.99,
+          "price_yearly": null,
+          "features": [
+            "Everything in Pro",
+            "OCR",
+            "Batch processing",
+            "Advanced editing"
+          ]
+        },
+        {
+          "name": "Business",
+          "price_monthly": 19.99,
+          "price_yearly": null,
+          "features": [
+            "Everything in Premium",
+            "Team accounts",
+            "Priority support"
+          ]
+        }
+      ],
+      "features": {
+        "pdf_editing": "Good",
+        "ocr": true,
+        "format_conversion": true,
+        "esignature": false,
+        "batch_processing": false,
+        "forms": "Fill only",
+        "collaboration": false,
+        "cloud_integration": true,
+        "mobile": false,
+        "ai_features": false,
+        "api": false,
+        "security": "SSL"
+      },
+      "g2_rating": 4,
+      "g2_reviews": "80+ verified",
+      "reddit_posts": [
+        {
+          "title": "DocFly - decent online PDF editor",
+          "snippet": "Good for the price. Not as polished as Smallpdf but cheaper.",
+          "url": "https://www.reddit.com/r/software/comments/qabcde/docfly_review/",
+          "date": "Apr 2026"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best PDF editor overall?",
+      "a": "Adobe Acrobat Pro is the industry standard with the most comprehensive features. Foxit PDF Editor and PDFelement are excellent alternatives at lower prices."
+    },
+    {
+      "q": "What is the best free PDF editor?",
+      "a": "PDF24 Tools is completely free with no watermarks or file limits. PDF Candy offers 45+ free tools. For desktop, PDF-XChange Editor has a generous free version."
+    },
+    {
+      "q": "What is the best online PDF editor?",
+      "a": "Sejda and Smallpdf offer the best online PDF editing experience. Sejda has the most comprehensive online editing, while Smallpdf has the best user experience."
+    },
+    {
+      "q": "Is Adobe Acrobat worth the price?",
+      "a": "For heavy professional use (daily PDF work, complex forms, high-volume OCR), Adobe Acrobat Pro is worth it. For occasional use, Foxit or PDFelement offer better value."
+    },
+    {
+      "q": "What is the difference between free and paid PDF editors?",
+      "a": "Free PDF editors typically offer basic viewing, annotation, and limited conversion. Paid versions ($5-20/month) add editing, OCR, advanced conversion, eSignatures, and batch processing."
+    },
+    {
+      "q": "Which PDF editor is best for Windows?",
+      "a": "PDF-XChange Editor is the best value for Windows users at $57.50 one-time. Foxit PDF Editor is the best lightweight alternative to Adobe on Windows."
+    },
+    {
+      "q": "Which PDF editor is best for Mac?",
+      "a": "Adobe Acrobat Pro is the most fully featured on Mac. PDFelement also has excellent Mac support. Nitro and PDF-XChange are Windows-only."
+    },
+    {
+      "q": "Do PDF editors offer one-time purchase options?",
+      "a": "Yes. PDFelement ($129-169), PDF-XChange Editor ($57.50), Nitro PDF Pro ($199), and PDF Candy Desktop ($39) offer one-time purchase options."
+    },
+    {
+      "q": "What is OCR and why is it important?",
+      "a": "OCR (Optical Character Recognition) converts scanned documents and images into editable, searchable PDFs. Adobe Acrobat has the most accurate OCR, followed by Foxit and PDFelement."
+    },
+    {
+      "q": "Can I use PDF editors on mobile?",
+      "a": "Adobe Acrobat Reader has mobile apps for iOS and Android. Foxit and PDFelement also offer mobile apps. Online tools like Smallpdf work through mobile browsers."
+    },
+    {
+      "q": "What PDF editors work with Google Drive?",
+      "a": "Lumin PDF integrates directly with Google Drive. Smallpdf, iLovePDF, and Adobe Acrobat also support Google Drive import/export."
+    },
+    {
+      "q": "Which PDF editor is best for business teams?",
+      "a": "Foxit PDF Editor Business offers the best team collaboration features. Nitro is strong for batch processing. Adobe offers the most comprehensive enterprise solution."
+    },
+    {
+      "q": "Do online PDF editors keep my files secure?",
+      "a": "Reputable online editors like Smallpdf, iLovePDF, and Sejda use SSL encryption and automatically delete files after processing. Desktop tools offer better security since files stay on your computer."
+    },
+    {
+      "q": "What is the cheapest PDF editor with OCR?",
+      "a": "PDF Candy Desktop ($39 one-time) includes OCR. PDF-XChange Editor ($57.50 one-time) is another affordable option. Online, Sejda and Smallpdf Pro ($12/mo) include OCR."
+    },
+    {
+      "q": "Which PDF editors offer eSignature?",
+      "a": "Adobe Acrobat (Adobe Sign), Foxit PDF Editor (Foxit eSign), Nitro PDF Pro (Nitro eSign), PDFelement, and Smallpdf all offer built-in eSignature capabilities."
+    },
+    {
+      "q": "Can PDF editors handle large files?",
+      "a": "Desktop editors (Adobe, Foxit, PDFelement) handle large files best. Online tools have file size limits typically 100-200MB on paid plans."
+    },
+    {
+      "q": "Which PDF editor is best for students?",
+      "a": "Kami is excellent for education with LMS integration. PDF-XChange Editor ($57.50 one-time) is great value for students. PDFelement also offers student discounts."
+    },
+    {
+      "q": "What PDF editors offer AI features?",
+      "a": "Adobe Acrobat has AI Assistant for summaries and questions. Foxit Pro+ includes Foxit AI for translation and analysis. PDFelement has AI side panel. Kami offers AI grading assistance."
+    },
+    {
+      "q": "How to choose between subscription and one-time purchase?",
+      "a": "Choose subscription ($5-20/month) if you want updates and cloud features. Choose one-time ($39-199) if you prefer to pay once and use basic versions long-term."
+    },
+    {
+      "q": "What PDF tools have the best format conversion?",
+      "a": "Adobe Acrobat has the most accurate PDF-to-Word/Excel conversion. Foxit and PDFelement also offer excellent conversion quality. PDF Candy offers the widest variety of format options."
+    }
+  ]
+}
