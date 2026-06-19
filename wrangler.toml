@@ -1,10 +1,2 @@
-﻿name = \"pdf-editor-comparison\"
-pages_build_output_dir = \"output\"
-
-[env.production]
-routes = [{ pattern = \"*\", zone_id = \"\" }]
-
-[[redirects]]
-from = \"/*\"
-to = \"/index.html\"
-status = 200
+name = "pdf-editor-comparison"
+pages_build_output_dir = "output"
